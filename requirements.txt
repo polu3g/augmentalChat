@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+transformers
+torch
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-multipart
+bitsandbytes
+accelerate
+tf-keras
+sentencepiece
+transformers[sentencepiece]
+python-dotenv
