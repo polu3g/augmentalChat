@@ -10,6 +10,7 @@ cd augumentalchat
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
+browse the swagger docs at http://localhost:8000/docs
 
 ## Docker
 
